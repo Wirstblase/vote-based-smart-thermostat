@@ -9,3 +9,6 @@ main functionality:
   - each of the roommates gets their own script to vote on the desired temperature
   - the thermostat gets set to the vote average
   - everyone is happy 
+
+the CLI script is made to bring a dystopian vibe for amusement purposes
+and the project itself was coded very lazily in less than an hour
