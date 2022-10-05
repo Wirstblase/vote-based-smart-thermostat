@@ -80,7 +80,7 @@ def update_relay():
 
 
 updateUpdateInterval()
-print(f"refreshing ever {relayUpdateInterval} seconds")
+print(f"refreshing every {relayUpdateInterval} seconds")
 while True:
     sleep(relayUpdateInterval)
     getThermoSetting()
