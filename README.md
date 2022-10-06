@@ -12,3 +12,7 @@ main functionality:
 
 the CLI script is made to bring a dystopian vibe for amusement purposes
 and the project itself was coded very lazily in less than an hour
+
+update: there is now a proper web app for this project:
+https://github.com/AlinScreciu/thermostat-webapp
+hosted in firebase
